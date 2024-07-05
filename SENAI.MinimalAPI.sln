@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SENAI.MinimalAPI", "SENAI.MinimalAPI\SENAI.MinimalAPI.csproj", "{20B2F7D3-C6B7-4166-B6C4-1970985B9AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20B2F7D3-C6B7-4166-B6C4-1970985B9AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B2F7D3-C6B7-4166-B6C4-1970985B9AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B2F7D3-C6B7-4166-B6C4-1970985B9AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B2F7D3-C6B7-4166-B6C4-1970985B9AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C6FE22B-F61E-4492-8F86-A5BDBE365799}
+	EndGlobalSection
+EndGlobal
