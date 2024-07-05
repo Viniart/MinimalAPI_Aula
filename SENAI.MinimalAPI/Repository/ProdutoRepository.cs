@@ -28,13 +28,12 @@ namespace SENAI.MinimalAPI.Repository
 
         public List<Produto> ListarProdutos()
         {
-            return contexto.Produtos.ToList();
+            return listaProdutos;
         }
         
         public void CadastrarProduto(Produto prod)
         {
-            contexto.Produtos.Add(prod);
-            contexto.SaveChanges();
+            listaProdutos.Add(prod);
         }
     }
 }
